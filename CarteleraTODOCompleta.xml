@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<cartelera last-mod="01/03/2024 - 11:54">
+    <recinto id="1" value="CINES LYS">
+        <address>Pso. Ruzafa, 3</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="" id="4682" uid="0"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hd/4682/</compra>
+            <caratula>https://www.reservaentradas.com/public/www/img/carteles/nodisponible.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion></duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="342581"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hd/342581/"
+                            sala="1" version="" formato="HD" hora="09:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CITA A CIEGAS CON EL CINE" id="5609" uid="30913"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcita-a-ciegas-con-el-cine/5609/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cwq.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>100</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="05/03/2024">
+                    <sesiones>
+                        <sesion id="344757"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcita-a-ciegas-con-el-cine/344757/"
+                            sala="3" version="Versi�n Original Extranjera" formato="HD" hora="19:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="RIGOLETTO (�PERA DIFERIDO 07/03/24)" id="5844" uid="38303"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdrigoletto-opera-diferido-07/03/24/5844/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00iz5.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>180</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="07/03/2024">
+                    <sesiones>
+                        <sesion id="344760"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdrigoletto-opera-diferido-07/03/24/344760/"
+                            sala="10" version="Versi�n Original Extranjera" formato="HD"
+                            hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MADAMA BUTTERFLY: �PERA EN DIRECTO 26/03/24" id="5845" uid="38402"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmadama-butterfly-opera-en-directo-26/03/24/5845/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j21.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>195</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="26/03/2024">
+                    <sesiones>
+                        <sesion id="343209"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmadama-butterfly-opera-en-directo-26/03/24/343209/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MADAMA BUTTERFLY (REPOSICI�N DIRECTO BRAVO 31/03/24)" id="5846"
+                uid="38403"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmadama-butterfly-reposicion-directo-bravo-31/03/24/5846/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j22.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>195</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="31/03/2024">
+                    <sesiones>
+                        <sesion id="343208"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmadama-butterfly-reposicion-directo-bravo-31/03/24/343208/"
+                            sala="11" version="Versi�n Original Extranjera" formato="HD"
+                            hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANATOM�A DE UNA CA�DA" id="5940" uid="36881"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdanatomia-de-una-caida/5940/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ias.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>151</duracion>
+            <sinopsis>Sandra, una escritora alemana, vive con su marido Samuel y su hijo ciego,
+                Daniel, en un chal� en medio de los Alpes franceses. Cuando Samuel fallece en
+                misteriosas circunstancias, la investigaci�n no puede determinar si se trata de un
+                suicidio o de un homicidio. Sandra es arrestada y juzgada por asesinato, y el
+                proceso pone su tumultuosa relaci�n y su ambigua personalidad en el punto de mira.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=ZxxtuWFftMg</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344586"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdanatomia-de-una-caida/344586/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA SOCIEDAD DE LA NIEVE" id="5958" uid="37130"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-sociedad-de-la-nieve/5958/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00iiu.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>143</duracion>
+            <sinopsis>En 1972, el vuelo 571 de la Fuerza A�rea Uruguaya, fletado para llevar a un
+                equipo de rugby a Chile, se estrella en un glaciar en el coraz�n de los Andes. Solo
+                29 de sus 45 pasajeros sobreviven al accidente. Atrapados en uno de los entornos m�s
+                inaccesibles y hostiles del planeta, se ven obligados a recurrir a medidas extremas
+                para mantenerse con vida... Basada en &quot;La sociedad de la nieve&quot;, de Pablo
+                Vierci.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Hb3GAhD1ev0</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344607"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-sociedad-de-la-nieve/344607/"
+                            sala="12" version="Original en Castellano" formato="HD" hora="22:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MIGRACI�N. UN VIAJE PATAS ARRIBA" id="5963" uid="37636"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdmigracion.-un-viaje-patas-arriba/5963/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ifj.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>92</duracion>
+            <sinopsis>La familia Mallard se ha quedado &quot;estancada&quot;. Mientras pap� Mack se
+                siente realizado cuidando de su familia en su estanque de Nueva Inglaterra, mam� Pam
+                se muere de ganas de vivir la vida y hacer descubrir a sus hijos el adolescente Dax
+                y la patita Gwen el mundo en toda su amplitud. Despu�s de que una familia de patos
+                migratorios llegue a su estanque con maravillosas historias de lugares lejanos, Pam
+                consigue convencer a Mack de que deben viajar a la tropical Jamaica pasando por
+                Nueva York. Los Mallard emprenden el viaje hacia el sur para pasar el invierno, pero
+                nada sale como estaba previsto. La experiencia les ayudar� a descubrir horizontes
+                desconocidos, hacer nuevos amigos, a vivir experiencias que jam�s imaginaron, y de
+                paso, a conocerse mejor.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=vW8fkQ5BMEo</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344583"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdmigracion.-un-viaje-patas-arriba/344583/"
+                            sala="10" version="Doblada al Castellano" formato="HD" hora="17:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS QUE SE QUEDAN" id="5974" uid="37907"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdlos-que-se-quedan/5974/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00in9.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA DRAM�TICA</genero>
+            <duracion>133</duracion>
+            <sinopsis>Paul Hunham, un profesor cascarrabias de un prestigioso colegio americano, se
+                ve obligado a permanecer en el campus durante las vacaciones de Navidad para velar
+                por un pu�ado de estudiantes que no tienen a d�nde ir. Contra todo pron�stico, la
+                convivencia le llevar� a forjar un ins�lito v�nculo con uno de ellos, un inteligente
+                y problem�tico muchacho con sus propios traumas, y con la jefa de cocina de la
+                escuela, que acaba de perder un hijo en Vietnam.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=zIy3ixhneCU</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344524"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdlos-que-se-quedan/344524/"
+                            sala="3" version="Doblada al Castellano" formato="HD" hora="20:45" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="PERFECT DAYS" id="5981" uid="36966"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdperfect-days/5981/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ip9.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>124</duracion>
+            <sinopsis>Hirayama parece totalmente satisfecho con su sencilla vida de limpiador de
+                retretes en Tokio. Fuera de su estructurada rutina diaria, disfruta de su pasi�n por
+                la m�sica y los libros. Le encantan los �rboles y les hace fotos. Una serie de
+                encuentros inesperados revelan poco a poco m�s de su pasado.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=YvGtMf-hapc</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344601"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdperfect-days/344601/"
+                            sala="12" version="Doblada al Castellano" formato="HD" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA ZONA DE INTER�S" id="5987" uid="37478"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-zona-de-interes/5987/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00iao.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>104</duracion>
+            <sinopsis>El comandante de Auschwitz Rudolf H�ss y su esposa Hedwig se esfuerzan en
+                construir una vida de ensue�o para su familia en una casa con jard�n cerca del
+                campo.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=sHCKYpBvuWc</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344604"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdla-zona-de-interes/344604/"
+                            sala="12" version="Doblada al Castellano" formato="HD" hora="19:35" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CUALQUIERA MENOS T�" id="5991" uid="38011"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcualquiera-menos-tu/5991/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00iqe.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>COMEDIA ROM�NTICA</genero>
+            <duracion>103</duracion>
+            <sinopsis>Bea y Ben parecen la pareja perfecta, pero tras una incre�ble primera cita
+                sucede algo que enfr�a su fuerte atracci�n, hasta que se encuentran inesperadamente
+                en una boda en Australia. As� que hacen lo que cualquier adulto har�a: fingir que
+                son una pareja.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=8IexmOK7HBQ</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="344548"
+                            url="https://www.reservaentradas.com/entrada/valencia/cineslys/hdcualquiera-menos-tu/344548/"
+                            sala="6" version="Doblada al Castellano" formato="HD" hora="16:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+       
+        <evento>
+            <titulo value="DEL DEPORTE TAMBIEN SE SALE CON JAVI SANCHO" id="94" uid="38510"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmdel-deporte-tambien-se-sale-con-javi-sancho/94/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5b.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero></genero>
+            <duracion>80</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="03/03/2024">
+                    <sesiones>
+                        <sesion id="115"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmdel-deporte-tambien-se-sale-con-javi-sancho/115/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="18:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TRIBUTO A SABINA-JIMENOS BAND" id="95" uid="38511"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmtributo-a-sabina-jimenos-band/95/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5c.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>120</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="12/04/2024">
+                    <sesiones>
+                        <sesion id="116"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmtributo-a-sabina-jimenos-band/116/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CIREALITY  C-DAKRIS, EL MAGO INVISIBLE" id="96" uid="38572"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmcireality--c-dakris-el-mago-invisible/96/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j7b.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>75</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="17/03/2024">
+                    <sesiones>
+                        <sesion id="117"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmcireality--c-dakris-el-mago-invisible/117/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="19:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LUIS PIEDRAHITA: APOCAL�PTICAMENTE CORRECTO" id="97" uid="38513"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmluis-piedrahita-apocalipticamente-correcto/97/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5e.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>80</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="19/04/2024">
+                    <sesiones>
+                        <sesion id="118"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmluis-piedrahita-apocalipticamente-correcto/118/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="MICHAEL S LEGACY" id="98" uid="38573"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmmichael-s-legacy/98/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j7c.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>115</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="27/04/2024">
+                    <sesiones>
+                        <sesion id="119"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmmichael-s-legacy/119/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="JOS� MERC� EN   CFLAMENCO  C" id="99" uid="38574"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmjose-merce-en---cflamenco--c/99/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j7d.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>100</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="13/04/2024">
+                    <sesiones>
+                        <sesion id="120"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmjose-merce-en---cflamenco--c/120/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FABIOLO CONNECTION - MATCH THE FUTURE" id="100" uid="38246"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmfabiolo-connection---match-the-future/100/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ixf.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>90</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="04/05/2024">
+                    <sesiones>
+                        <sesion id="121"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmfabiolo-connection---match-the-future/121/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BONO 1ER FESTIVAL TEATRO CLASICO" id="101" uid="38515"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmbono-1er-festival-teatro-clasico/101/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5g.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>5</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="08/03/2024">
+                    <sesiones>
+                        <sesion id="122"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmbono-1er-festival-teatro-clasico/122/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:24" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA ILUSTRE FREGONA DE CERVANTES" id="102" uid="38516"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmla-ilustre-fregona-de-cervantes/102/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5h.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>100</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="08/03/2024">
+                    <sesiones>
+                        <sesion id="123"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmla-ilustre-fregona-de-cervantes/123/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="TRES PICAROS MUY PILLOS:LA CELESTINA, EL CIEGO Y EL LAZARILLO" id="103"
+                uid="38517"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmtres-picaros-muy-pillosla-celestina-el-ciego-y-el-lazarillo/103/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5i.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>75</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="09/03/2024">
+                    <sesiones>
+                        <sesion id="124"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmtres-picaros-muy-pillosla-celestina-el-ciego-y-el-lazarillo/124/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="A LOMOS DE ROCINANTE DE CERVANTES" id="104" uid="38518"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mma-lomos-de-rocinante-de-cervantes/104/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j5j.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>90</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="10/03/2024">
+                    <sesiones>
+                        <sesion id="125"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mma-lomos-de-rocinante-de-cervantes/125/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="18:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS TRES CERDITOS" id="105" uid="32841"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmlos-tres-cerditos/105/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ehe.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>50</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="20/04/2024">
+                    <sesiones>
+                        <sesion id="126"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmlos-tres-cerditos/126/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="17:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="PIENSA EN WILBUR" id="106" uid="35535"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmpiensa-en-wilbur/106/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00go7.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>90</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="26/05/2024">
+                    <sesiones>
+                        <sesion id="127"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmpiensa-en-wilbur/127/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="18:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="UNA NOCHE EN LA HABANA" id="107" uid="38560"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmuna-noche-en-la-habana/107/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j6u.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>FANTAS�A</genero>
+            <duracion>100</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="18/05/2024">
+                    <sesiones>
+                        <sesion id="128"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmuna-noche-en-la-habana/128/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="DAVID SUAREZ -   HUMOR BLANCO" id="108" uid="38566"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/avila/teatrosantotomas/35mmdavid-suarez-----humor-blanco/108/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j75.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>70</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="26/04/2024">
+                    <sesiones>
+                        <sesion id="129"
+                            url="https://www.reservaentradas.com/entrada/avila/teatrosantotomas/35mmdavid-suarez-----humor-blanco/129/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="188" value="CINE y EVENTOS OUTDOOR OMY">
+        <address>Avenida de la Comunidad Europea, 23</address>
+        <postcode>34004</postcode>
+        <city>Palencia</city>
+    </recinto>
+    <recinto id="189" value="CINE TERRAZA NEPTUNO">
+        <address>Calle San Benito, 10A</address>
+        <postcode>12596</postcode>
+        <city>Alcocebre</city>
+    </recinto>
+    <recinto id="190" value="CINE TERRAZA AVENIDA">
+        <address>Avenida Castell�n S/N</address>
+        <postcode>12579</postcode>
+        <city>Alcocebre</city>
+    </recinto>
+    <recinto id="191" value="CINE LA  VIDRIERA">
+        <address>Avenida Cantabria S/N</address>
+        <postcode>39600</postcode>
+        <city>MALIA�O</city>
+        <evento>
+            <titulo value="FERRARI" id="157" uid="38270"></titulo>
+            <compra>https://www.reservaentradas.com/sesiones/maliano/cinelavidriera/35mmferrari/157/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00iy8.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>130</duracion>
+            <sinopsis>Verano de 1957. El expiloto de carreras Enzo Ferrari est� en crisis. La
+                bancarrota acecha a la empresa que �l y su esposa, Laura, construyeron de la nada
+                diez a�os atr�s. Su tormentoso matrimonio se encuentra en medio de una gran crisis,
+                mientras lidian con la muerte de su hijo. En esta crucial etapa, Ferrari tomar�
+                decisiones arriesgadas apost�ndolo todo en una �nica carrera que atraviesa 1.000
+                millas a lo largo de toda Italia: la Mille Miglia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=dafyl0jr20k</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="1310"
+                            url="https://www.reservaentradas.com/entrada/maliano/cinelavidriera/35mmferrari/1310/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="22:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AFTERSUN" id="158" uid="33906"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/maliano/cinelavidriera/35mmaftersun/158/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00fc5.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>COMEDIA DRAM�TICA</genero>
+            <duracion>101</duracion>
+            <sinopsis>Sophie (Francesca Corio / Celia Rowlson-Hall como la Sophie adulta) reflexiona
+                sobre la alegr�a compartida y la melancol�a privada de unas vacaciones que hizo con
+                su padre (Paul Mescal) 20 a�os atr�s. Los recuerdos reales e imaginarios llenan los
+                espacios entre las im�genes mientras intenta reconciliar al padre que conoci� con el
+                hombre que no conoci�.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=z-nlHO72WrM</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="1309"
+                            url="https://www.reservaentradas.com/entrada/maliano/cinelavidriera/35mmaftersun/1309/"
+                            sala="1" version="Versi�n Original Extranjera" formato="35mm"
+                            hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="192" value="SALA ZAZIE">
+        <address>Rambla Nostra Senyora, 26</address>
+        <postcode>08720</postcode>
+        <city>Vilafranca del Pened�s</city>
+        <evento>
+            <titulo value="LAS CUATRO HIJAS" id="174" uid="38409"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/vilafranca-del-penedes/salazazie/35mmlas-cuatro-hijas/174/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j2l.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>107</duracion>
+            <sinopsis>La vida de Olfa, tunecina y madre de cuatro hijas, oscila entre la oscuridad y
+                la luz. Un d�a, sus dos hijas mayores desaparecen.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=2zfatGwjWKU</trailer>
+            <fechas>
+                <fecha value="07/03/2024">
+                    <sesiones>
+                        <sesion id="1726"
+                            url="https://www.reservaentradas.com/entrada/vilafranca-del-penedes/salazazie/35mmlas-cuatro-hijas/1726/"
+                            sala="1" version="Versi�n Original Extranjera" formato="35mm"
+                            hora="20:15" />
+                    </sesiones>
+                </fecha>
+                <fecha value="08/03/2024">
+                    <sesiones>
+                        <sesion id="1727"
+                            url="https://www.reservaentradas.com/entrada/vilafranca-del-penedes/salazazie/35mmlas-cuatro-hijas/1727/"
+                            sala="1" version="Versi�n Original Extranjera" formato="35mm"
+                            hora="21:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL HIJO DE SA�L" id="176" uid="17242"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/vilafranca-del-penedes/salazazie/35mmel-hijo-de-saul/176/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG001ww.jpg</caratula>
+            <calificacion>No rec. a menores de 18 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>107</duracion>
+            <sinopsis>En el a�o 1944, durante el horror del campo de concentraci�n de Auschwitz, un
+                prisionero jud�o h�ngaro llamado Saul, miembro de los &apos;Sonderkommando&apos;
+                -encargados de quemar los cad�veres de los prisioneros gaseados nada m�s llegar al
+                campo y limpiar las c�maras de gas-, encuentra cierta supervivencia moral tratando
+                de salvar de los hornos crematorios el cuerpo de un ni�o que toma como su hijo.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=lq8mg8u8oOg</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="1743"
+                            url="https://www.reservaentradas.com/entrada/vilafranca-del-penedes/salazazie/35mmel-hijo-de-saul/1743/"
+                            sala="1" version="Versi�n Original Extranjera" formato="35mm"
+                            hora="21:30" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="POL�TICAMENTE INCORRECTOS" id="177" uid="38439"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/vilafranca-del-penedes/salazazie/35mmpoliticamente-incorrectos/177/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j3a.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>91</duracion>
+            <sinopsis>Espa�a hierve de crispaci�n, el pa�s est� totalmente polarizado y las redes
+                sociales arden a diario... Los partidos NUEVA IZQUIERDA y ESPA�A LIBERAL se
+                enfrentan en las pr�ximas elecciones generales. Laura, una progre perroflauta y
+                Pablo, un pijo con fachaleco, est�n dispuestos a revolcarse en el fango pol�tico
+                para conseguir la victoria de sus respectivos l�deres. Pero como ocurre siempre en
+                pol�tica, cuando los rivales se lanzan a la arena, nada sale como se espera. Viejos
+                rencores, programas sin cumplir y amores prohibidos viajar�n en una maquinaria
+                electoral a todo gas y sin frenos... �Qu� puede salir mal?</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=VRpTTk86TCs</trailer>
+            <fechas>
+                <fecha value="02/03/2024">
+                    <sesiones>
+                        <sesion id="1744"
+                            url="https://www.reservaentradas.com/entrada/vilafranca-del-penedes/salazazie/35mmpoliticamente-incorrectos/1744/"
+                            sala="1" version="Original en Castellano" formato="35mm" hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="T�TEM" id="178" uid="38488"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/vilafranca-del-penedes/salazazie/35mmtotem/178/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j4q.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>95</duracion>
+            <sinopsis>Sol, una ni�a de siete a�os, pasa el d�a en casa de su abuelo, ayudando en los
+                preparativos de una fiesta sorpresa para su padre. A lo largo del d�a, el caos se
+                apodera poco a poco de la familia, fracturando sus cimientos. Sol abrazar� la
+                esencia de dejarse llevar como una liberaci�n para la existencia.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=2leMAFUs2yA</trailer>
+            <fechas>
+                <fecha value="14/03/2024">
+                    <sesiones>
+                        <sesion id="1747"
+                            url="https://www.reservaentradas.com/entrada/vilafranca-del-penedes/salazazie/35mmtotem/1747/"
+                            sala="1" version="Original en Castellano" formato="35mm" hora="20:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+    <recinto id="193" value="CINEMA CASINO ESPAI CULTURAL">
+        <address>Carrer Casino, 1</address>
+        <postcode>17255</postcode>
+        <city>Begur</city>
+        <evento>
+            <titulo value="EL COLOR P�RPURA" id="82" uid="38269"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/begur/cinemacasinoespaicultural/35mmel-color-purpura/82/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00iy7.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>MUSICAL</genero>
+            <duracion>140</duracion>
+            <sinopsis>Adaptaci�n musical de la novela de Alice Walker sobre las luchas de toda la
+                vida de una mujer afroamericana que vive en el sur a principios del siglo XX.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FD_YvBDa-o8</trailer>
+            <fechas>
+                <fecha value="08/03/2024">
+                    <sesiones>
+                        <sesion id="333"
+                            url="https://www.reservaentradas.com/entrada/begur/cinemacasinoespaicultural/35mmel-color-purpura/333/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:00" />
+                    </sesiones>
+                </fecha>
+                <fecha value="09/03/2024">
+                    <sesiones>
+                        <sesion id="335"
+                            url="https://www.reservaentradas.com/entrada/begur/cinemacasinoespaicultural/35mmel-color-purpura/335/"
+                            sala="1" version="Doblada al Castellano" formato="35mm" hora="20:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+       
+        <evento>
+            <titulo value="CL�SICOS AL DETALLE: MATRIX" id="161" uid="36262"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmclasicos-al-detalle-matrix/161/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00ha3.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>ACCI�N</genero>
+            <duracion>240</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="03/03/2024">
+                    <sesiones>
+                        <sesion id="2518"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmclasicos-al-detalle-matrix/2518/"
+                            sala="5" version="Original en Castellano" formato="35mm" hora="10:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CL�SICOS AL DETALLE: VIRIDIANA" id="162" uid="38464"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmclasicos-al-detalle-viridiana/162/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j3z.jpg</caratula>
+            <calificacion></calificacion>
+            <genero>DRAMA</genero>
+            <duracion>240</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="16/03/2024">
+                    <sesiones>
+                        <sesion id="2519"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmclasicos-al-detalle-viridiana/2519/"
+                            sala="5" version="Original en Castellano" formato="35mm" hora="10:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+       
+        <evento>
+            <titulo value="LOS PEQUE�OS AMORES" id="179" uid="38576"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmlos-pequenos-amores/179/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j7g.jpg</caratula>
+            <calificacion>No rec. a menores de 7 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>95</duracion>
+            <sinopsis>Teresa cambia sus planes de vacaciones para ayudar a su madre, que ha sufrido
+                un peque�o accidente. Madre e hija pasar�n juntas un verano de lo m�s sofocante, en
+                el que no conseguir�n ponerse de acuerdo ni en las cosas m�s triviales. Sin embargo,
+                la obligada convivencia remover� m�s de lo esperado y en las noches estivales Teresa
+                vivir� momentos reveladores junto a su madre.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=0Y5NLtnun_g</trailer>
+            <fechas>
+                <fecha value="09/03/2024">
+                    <sesiones>
+                        <sesion id="2764"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmlos-pequenos-amores/2764/"
+                            sala="4" version="Original en Castellano" formato="35mm" hora="12:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+       
+        <evento>
+            <titulo value="DESCONOCIDOS" id="182" uid="38438"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmdesconocidos/182/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j39.jpg</caratula>
+            <calificacion>No rec. a menores de 16 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>105</duracion>
+            <sinopsis>Una noche, en su torre casi vac�a del Londres actual, Adam tiene un encuentro
+                casual con un misterioso vecino, Harry, que pone patas arriba el ritmo de su vida
+                cotidiana. A medida que va surgiendo una relaci�n entre ellos, a Adam le preocupan
+                los recuerdos del pasado y regresa a su ciudad natal y al hogar de su infancia donde
+                sus padres parecen estar vivos, tal y como lo estaban el d�a de su muerte, 30 a�os
+                antes.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=uqWoYBitIxc</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="2781"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmdesconocidos/2781/"
+                            sala="6" version="Versi�n Original Extranjera" formato="35mm"
+                            hora="22:30" />
+                    </sesiones>
+                </fecha>
+                <fecha value="06/03/2024">
+                    <sesiones>
+                        <sesion id="2826"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmdesconocidos/2826/"
+                            sala="6" version="Versi�n Original Extranjera" formato="35mm"
+                            hora="12:15" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA AVENTURA INFINITA" id="183" uid="38489"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmla-aventura-infinita/183/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j81.jpg</caratula>
+            <calificacion>Para todos los p�blicos</calificacion>
+            <genero>ANIMACI�N</genero>
+            <duracion>89</duracion>
+            <sinopsis>Hace mucho tiempo, hab�a paz entre todos. Hasta que el Fantasma Blanco caus�
+                estragos y amenaz� con destruirlo todo. Solo un hombre puede detenerlo, es valiente,
+                fuerte y apuesto y anda en bicicleta, su nombre es Koschey.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=0V6PdlF2mT0</trailer>
+            <fechas>
+                <fecha value="01/03/2024">
+                    <sesiones>
+                        <sesion id="2775"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmla-aventura-infinita/2775/"
+                            sala="5" version="Doblada al Castellano" formato="35mm" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA ESTRELLA AZUL" id="184" uid="38392"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmla-estrella-azul/184/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00j2j.jpg</caratula>
+            <calificacion>No rec. a menores de 12 a�os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>128</duracion>
+            <sinopsis>A�os 90. Mauricio, un famoso rockero espa�ol recorre Latinoam�rica buscando
+                reencontrarse con su vocaci�n dejando atr�s el fantasma de la adicci�n. All� conoce
+                a Don Carlos, un anciano m�sico en horas bajas que, a pesar de ser autor de algunas
+                de las canciones m�s famosas del folclore de su pa�s, apenas consigue pagar sus
+                facturas. Carlos acoge con generosidad al extra�o visitante haciendo las veces de
+                maestro Miyagi musical. De su encuentro nace un extravagante d�o quijotesco, con
+                todos los visos de ser un absoluto fracaso comercial.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=SKHB1SRmrdA</trailer>
+            <fechas>
+                <fecha value="06/03/2024">
+                    <sesiones>
+                        <sesion id="2821"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmla-estrella-azul/2821/"
+                            sala="5" version="Original en Castellano" formato="35mm" hora="16:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="DOMINGO DOMINGO" id="185" uid="36131"></titulo>
+            <compra>
+                https://www.reservaentradas.com/sesiones/madrid/cineembajadoresrio/35mmdomingo-domingo/185/</compra>
+            <caratula>
+                http://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00h7f.jpg</caratula>
+            <calificacion></calificacion>
+            <genero></genero>
+            <duracion>72</duracion>
+            <sinopsis></sinopsis>
+            <trailer></trailer>
+            <fechas>
+                <fecha value="10/03/2024">
+                    <sesiones>
+                        <sesion id="2854"
+                            url="https://www.reservaentradas.com/entrada/madrid/cineembajadoresrio/35mmdomingo-domingo/2854/"
+                            sala="6" version="Original en Castellano" formato="35mm" hora="12:00" />
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+</cartelera>
