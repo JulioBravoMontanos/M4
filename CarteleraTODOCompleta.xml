@@ -289,7 +289,6 @@
                 </fecha>
             </fechas>
         </evento>
-       
         <evento>
             <titulo value="DEL DEPORTE TAMBIEN SE SALE CON JAVI SANCHO" id="94" uid="38510"></titulo>
             <compra>
@@ -607,21 +606,6 @@
             </fechas>
         </evento>
     </recinto>
-    <recinto id="188" value="CINE y EVENTOS OUTDOOR OMY">
-        <address>Avenida de la Comunidad Europea, 23</address>
-        <postcode>34004</postcode>
-        <city>Palencia</city>
-    </recinto>
-    <recinto id="189" value="CINE TERRAZA NEPTUNO">
-        <address>Calle San Benito, 10A</address>
-        <postcode>12596</postcode>
-        <city>Alcocebre</city>
-    </recinto>
-    <recinto id="190" value="CINE TERRAZA AVENIDA">
-        <address>Avenida Castell�n S/N</address>
-        <postcode>12579</postcode>
-        <city>Alcocebre</city>
-    </recinto>
     <recinto id="191" value="CINE LA  VIDRIERA">
         <address>Avenida Cantabria S/N</address>
         <postcode>39600</postcode>
@@ -825,7 +809,6 @@
                 </fecha>
             </fechas>
         </evento>
-       
         <evento>
             <titulo value="CL�SICOS AL DETALLE: MATRIX" id="161" uid="36262"></titulo>
             <compra>
